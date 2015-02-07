@@ -1,0 +1,4 @@
+1024 bytes = 1 kilobyte
+1024 kilobytes = 1 megabyte
+1024 megabytes = 1 gigabyte
+1024 gigabytes = 1 terabyte
