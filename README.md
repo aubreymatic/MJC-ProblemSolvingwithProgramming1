@@ -1,1 +1,3 @@
-# stuff i did in my Modesto Junior College class
+MJC-ProblemSolvingwithProgramming
+==============================
+THese are files that i worked on in Modesto junior college.
