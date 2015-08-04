@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: GenerateNumbers_Project, Configuration: Debug Win32 ------
+1>  GenerateNumbers.cpp
+1>  GenerateNumbers_Project.vcxproj -> C:\Users\chris\Documents\Visual Studio 2013\Projects\Problem Solving with Programming\GenerateNumbers_Solution\Debug\GenerateNumbers_Project.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

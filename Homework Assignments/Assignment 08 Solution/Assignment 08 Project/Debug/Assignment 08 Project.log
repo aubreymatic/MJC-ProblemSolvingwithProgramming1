@@ -1,0 +1,13 @@
+﻿Build started 3/20/2015 11:11:27 PM.
+     1>Project "C:\Users\chris\Documents\Visual Studio 2013\Projects\Problem Solving with Programming\Assignment 08 Solution\Assignment 08 Project\Assignment 08 Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt assign08.cpp
+         assign08.cpp
+     1>c:\users\chris\documents\visual studio 2013\projects\problem solving with programming\assignment 08 solution\assignment 08 project\assign08.cpp(66): error C2601: 'gradeAnswers' : local function definitions are illegal
+                 c:\users\chris\documents\visual studio 2013\projects\problem solving with programming\assignment 08 solution\assignment 08 project\assign08.cpp(36): this line contains a '{' which has not yet been matched
+     1>c:\users\chris\documents\visual studio 2013\projects\problem solving with programming\assignment 08 solution\assignment 08 project\assign08.cpp(89): fatal error C1075: end of file found before the left brace '{' at 'c:\users\chris\documents\visual studio 2013\projects\problem solving with programming\assignment 08 solution\assignment 08 project\assign08.cpp(36)' was matched
+     1>Done Building Project "C:\Users\chris\Documents\Visual Studio 2013\Projects\Problem Solving with Programming\Assignment 08 Solution\Assignment 08 Project\Assignment 08 Project.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.50
